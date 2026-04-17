@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "name": "web_2026",
+  "version": "1.0.0",
+  "description": "A disciplina **Desenvolvimento Web** aborda conceitos fundamentais do **backend**, ensinando como construir APIs eficientes e seguras. Durante o curso, os alunos aprenderão sobre **Node.js, Express, bancos de dados SQL/NoSQL, autenticação e segurança**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anninhastar23/web_2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anninhastar23/web_2026/issues"
+  },
+  "homepage": "https://github.com/Anninhastar23/web_2026#readme"
+}
